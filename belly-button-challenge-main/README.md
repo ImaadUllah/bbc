@@ -43,7 +43,7 @@ Complete the following steps:
 * The [static](https://github.com/Zuzubee/belly-button-challenge/tree/main/static/js) folder contains the two javascript files [app.js](https://github.com/Zuzubee/belly-button-challenge/blob/main/static/js/app.js) and [bonus.js](https://github.com/Zuzubee/belly-button-challenge/blob/main/static/js/bonus.js) that were used to build the dashboard.
 
 ## References
-Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/).
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse but Predictable. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/).
 
 
 
