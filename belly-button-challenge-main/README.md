@@ -17,8 +17,6 @@ Complete the following steps:
     * Use `otu_ids` as the labels for the bar chart.
     * Use `otu_labels` as the hovertext for the chart.
     
-    <img width="366" alt="Screenshot 2023-01-10 at 11 13 39 AM" src="https://user-images.githubusercontent.com/112406455/211620197-c3b86bf9-748a-4bff-a1bf-2cad787fd612.png">
-
  3. Create a bubble chart that displays each sample.
     * Use `otu_ids` for the x values.
     * Use `sample_values` for the y values.
@@ -26,14 +24,10 @@ Complete the following steps:
     * Use `otu_ids` for the marker colors.
     * Use `otu_labels` for the text values.
     
-    <img width="913" alt="Screenshot 2023-01-10 at 11 13 56 AM" src="https://user-images.githubusercontent.com/112406455/211619955-8c6f1d82-a564-4864-acaf-bbdca0d46e49.png">
-
   4. Display the sample metadata, i.e., an individual's demographic information.
 
   5. Display each key-value pair from the metadata JSON object somewhere on the page.
   
-  <img width="129" alt="Screenshot 2023-01-10 at 11 13 47 AM" src="https://user-images.githubusercontent.com/112406455/211618894-2843388f-9215-4627-841e-47013cd96100.png">
-
   6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
   7. Deploy your app to a free static page hosting service, such as GitHub Pages.
@@ -42,18 +36,14 @@ Complete the following steps:
  * Adapt the Gauge Chart from [https://plot.ly/javascript/gauge-charts/](https://plotly.com/javascript/gauge-charts/) to plot the weekly washing frequency of the individual.
  * You will need to modify the example gauge code to account for values ranging from 0 through 9.
  * Update the chart whenever a new sample is selected.
- 
- <img width="321" alt="Screenshot 2023-01-10 at 11 19 42 AM" src="https://user-images.githubusercontent.com/112406455/211619467-9e89e61a-2016-4a84-a380-fc542e2ba08f.png">
- 
+  
 ## File Organization and Structure
-* Located in the parent directory are three folders and the [index.html](https://github.com/tallantj95/belly-button-challenge/blob/main/index.html) file.
+* Located in the parent directory are two folders and the [index.html](https://github.com/tallantj95/belly-button-challenge/blob/main/index.html) file.
 * The [Resources](https://github.com/tallantj95/belly-button-challenge/tree/main/Resources) folder contains the [samples.json](https://github.com/tallantj95/belly-button-challenge/blob/main/Resources/samples.json) file as a reference.
 * The [static](https://github.com/tallantj95/belly-button-challenge/tree/main/static/js) folder contains the two javascript files [app.js](https://github.com/tallantj95/belly-button-challenge/blob/main/static/js/app.js) and [bonus.js](https://github.com/tallantj95/belly-button-challenge/blob/main/static/js/bonus.js) that were used to build the dashboard.
 
 ## References
-Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
-
-© 2023 edX Boot Camps LLC
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/).
 
 
 
