@@ -39,7 +39,7 @@ Complete the following steps:
   
 ## File Organization and Structure
 * Located in the parent directory are two folders and the [index.html](https://github.com/tallantj95/belly-button-challenge/blob/main/index.html) file.
-* The [Resources](https://github.com/tallantj95/belly-button-challenge/tree/main/Resources) folder contains the [samples.json](https://github.com/tallantj95/belly-button-challenge/blob/main/Resources/samples.json) file as a reference.
+* The [Resources](https://github.com/Zuzubee/belly-button-challenge/tree/main/Resources) folder contains the [samples.json](https://github.com/Zuzubee/belly-button-challenge/blob/main/Resources/samples.json) file as a reference.
 * The [static](https://github.com/Zuzubee/belly-button-challenge/tree/main/static/js) folder contains the two javascript files [app.js](https://github.com/Zuzubee/belly-button-challenge/blob/main/static/js/app.js) and [bonus.js](https://github.com/tallantj95/belly-button-challenge/blob/main/static/js/bonus.js) that were used to build the dashboard.
 
 ## References
